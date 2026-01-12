@@ -5,7 +5,7 @@ const Navbar: React.FC = () => {
         <main>
            <nav className='flex items-center justify-between px-8 py-4 bg-gray-800 text-white'>
               <div className='flex-shrink-0'>
-                <h2 className='text-2xl front-bold'>QuickDirs</h2>
+                <h2 className='text-2xl font-bold'>QuickDirs</h2>
               </div>
               <ul className='flex space-x-8 mx-auto'>
                  <li className='hover:text-gray-300 cursor-pointer'>Home</li>
